@@ -18,16 +18,15 @@
 
 <br>
 
-## About Me
+# About Me ?
 
-Berawal dari iseng belajar laptop & IT dari ngegame sejak umur 6 tahun, 11 tahun perjalanan waktu berkembang jadi tertarik belajar IT dasar — dari coding, software, hardware, sistem operasi, sampai bahasa pemrograman, dan terus berlanjut sampai sekarang.
+Berawal dari iseng belajar laptop & IT dari ngegame sejak umur 6 tahun, 11 tahun perjalanan waktu berkembang jadi tertarik belajar IT dasar dari coding, software, hardware, sistem operasi, sampai bahasa pemrograman, dan terus berlanjut sampai sekarang.
 
-- 🎓 Vocational student at **SMK PGRI 3 Malang**, majoring in **Rekayasa Perangkat Lunak (RPL/PPLG)**
-- 💻 Building web projects, tinkering with hardware, and exploring cyber security on the side
-- 🖐️ Currently building a **hand-gesture Minecraft controller** in Python (OpenCV, MediaPipe, pynput)
-- 🍱 Designing **BY Kantin** — a digital pre-order & queue system for school canteens
-- 📱 Also into **custom ROM / Android modding** in my free time
-- 📫 Open to collaborating on web, tooling, and computer-vision projects
+- Vocational student at **SMK PGRI 3 Malang**, majoring in **Rekayasa Perangkat Lunak (RPL/PPLG)**
+- Building web projects, tinkering with hardware, and exploring cyber security on the side
+- 
+- Also into **custom ROM / Android modding** in my free time
+- Open to collaborating on web, tooling, and computer-vision projects
 
 <br>
 
@@ -87,29 +86,17 @@ Berawal dari iseng belajar laptop & IT dari ngegame sejak umur 6 tahun, 11 tahun
 <tr>
 <td width="50%" valign="top">
 
-### 🖐️ Minecraft Gesture Controller
+# 🖐️ Minecraft Gesture Controller
 Control Minecraft using only a webcam and both hands — left hand drives movement, right hand handles camera & interactions, like a virtual gamepad made of gestures.
 
 **Stack:** Python · OpenCV · MediaPipe · pynput
 
 `[ 🔗 add your repo link here ]`
 
-</td>
-<td width="50%" valign="top">
-
-### 🍱 BY Kantin
-A pre-order & digital queue concept for school canteens — students order from class, get a queue number, and pick up when it's ready. No more crowding at the counter.
-
-**Stack:** SDLC planning · UI/UX design · HTML/CSS/JS (prototype)
-
-`[ 🔗 add your repo link here ]`
-
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Bryan Lee IT TECH — Portfolio
+# 🌐 Bryan Lee IT TECH — Portfolio
 Personal portfolio site showcasing skills, tools, and hardware setup — built with a dark navy/blue tech aesthetic.
 
 **Stack:** HTML · CSS · JS
@@ -119,7 +106,7 @@ Personal portfolio site showcasing skills, tools, and hardware setup — built w
 </td>
 <td width="50%" valign="top">
 
-### 💡 What's Next
+# What's Next ??
 More projects are on the way as skills keep expanding — from web development into deeper systems, security, and automation work.
 
 `[ 🔗 add your repo link here ]`
@@ -127,8 +114,6 @@ More projects are on the way as skills keep expanding — from web development i
 </td>
 </tr>
 </table>
-
-> 💬 **Tip:** ganti tiap `[ 🔗 add your repo link here ]` di atas dengan link asli repo kamu, format: `[Lihat kode →](https://github.com/bryanleeanito/nama-repo)`
 
 <br>
 
@@ -161,9 +146,9 @@ More projects are on the way as skills keep expanding — from web development i
 
 <div align="center">
 
-### Let's build something 🚀
+### Let's build something :) You can collab with me too
 
-<sub>Started from curiosity, now building real things — one project at a time.</sub>
+<sub>Started from curiosity, now building real things one project at a time.</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0D1B2E&height=100&section=footer" />
 
