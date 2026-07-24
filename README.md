@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2E,100:3B82F6&height=200&section=header&text=Bryan%20Lee%20Anito&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programmer%20%7C%20Modder%20%7C%20Content%20Creator%20%7C%20Young Entrepreneur/Businessman%20(pemula)&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2E,100:3B82F6&height=200&section=header&text=Bryan%20Lee%20Anito&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programmer%20%7C%20Modder%20%7C%20Content%20Creator%20%7C%20YoungEntrepreneur/Businessman%20(pemula)&descAlignY=58&descSize=16" />
 
 <a href="https://github.com/bryanleeanito">
   <img src="https://komarev.com/ghpvc/?username=bryanleeanito&label=Profile%20Views&color=3B82F6&style=flat-square" />
