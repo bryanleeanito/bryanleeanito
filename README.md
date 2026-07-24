@@ -91,25 +91,25 @@ Control Minecraft using only a webcam and both hands — left hand drives moveme
 
 **Stack:** Python · OpenCV · MediaPipe · pynput
 
-`[ 🔗 add your repo link here ]`
+`https://github.com/bryanleeanito/Minecraft_Movement_with_Hand_Python_OPENCV_MediaPipe_Pynput_By_Lee`
 
 <tr>
 <td width="50%" valign="top">
 
-# 🌐 Bryan Lee IT TECH — Portfolio
+# 🌐 Bryan Lee IT TECH | Portfolio
 Personal portfolio site showcasing skills, tools, and hardware setup — built with a dark navy/blue tech aesthetic.
 
 **Stack:** HTML · CSS · JS
 
-`[ 🔗 add your repo link here ]`
+`https://bryanleeittech.netlify.app/`
 
 </td>
 <td width="50%" valign="top">
 
 # What's Next ??
-More projects are on the way as skills keep expanding — from web development into deeper systems, security, and automation work.
+More projects are on the way as skills keep expanding from web development into deeper systems, security, and automation work.
 
-`[ 🔗 add your repo link here ]`
+`Coming Soom`
 
 </td>
 </tr>
