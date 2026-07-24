@@ -11,7 +11,7 @@
 <br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+account+enjoy+:);Software+Engineer+|+Hardware+|+Modder;Custom+ROM+Business+|+Intrepreneur+|+Cyber+Security;Building+BY+Kantin+%E2%80%94+a+school+queue+app;SMK+PGRI+3+Malang+%E2%80%94+RPL%2FPPLG&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=800&color=3B82F6&vCenter=true&size=19" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+account+enjoy+:);Software+Engineer+|+Hardware+|+Modder;Custom+ROM+|+Business+|+Intrepreneur+|+Cyber+Security;Student+of+SMK+PGRI+3+Malang+%E2%80%94+RPL%2FPPLG&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=800&color=3B82F6&vCenter=true&size=19" />
 </a>
 
 </div>
