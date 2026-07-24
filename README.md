@@ -91,7 +91,7 @@ Control Minecraft using only a webcam and both hands — left hand drives moveme
 
 **Stack:** Python · OpenCV · MediaPipe · pynput
 
-`https://github.com/bryanleeanito/Minecraft_Movement_with_Hand_Python_OPENCV_MediaPipe_Pynput_By_Lee`
+`https://github.com/bryanleeanito/Minecraft_Movement_with_Hand_Python_OPENCV_MediaPipe_Pynput_By_Lee.git`
 
 <tr>
 <td width="50%" valign="top">
