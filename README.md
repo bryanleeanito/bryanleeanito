@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2E,100:3B82F6&height=200&section=header&text=Bryan%20Lee%20Anito&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programmer%20%7C%20Modder%20%7C%20Content%20Creator%20%7C%20Young%20Entrepreneur/Businessman%20(pemula)&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2E,100:3B82F6&height=200&section=header&text=Bryan%20Lee%20Anito&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programmer%20%7C%20Modder%20%7C%20Content%20Creator%20%7C%20Young%20Entrepreneur/Businessman%20&descAlignY=58&descSize=16" />
 
 <a href="https://github.com/bryanleeanito">
   <img src="https://komarev.com/ghpvc/?username=bryanleeanito&label=Profile%20Views&color=3B82F6&style=flat-square" />
@@ -11,7 +11,7 @@
 <br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+account+enjoy+:);Software+Engineer+|+Hardware+|+Modder;Custom+ROM+|+Business+|+Intrepreneur+|+Cyber+Security;Student+of+SMK+PGRI+3+Malang+%E2%80%94+RPL%2FPPLG&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=800&color=3B82F6&vCenter=true&size=19" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+account+enjoy+:);Software+Engineer+|+Hardware+|+Modder;Custom+ROM+|+Business+|+Intrepreneur+|+Cyber+Security;Student+of+SMK+PGRI+3+Malang+%E2%80%94+RPL%2FPPLG;Still+Learning!+:);Enjoy:)&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=800&color=3B82F6&vCenter=true&size=19" />
 </a>
 
 </div>
@@ -24,14 +24,14 @@ Berawal dari iseng belajar laptop & IT dari ngegame sejak umur 6 tahun, 11 tahun
 
 -  Vocational student at **SMK PGRI 3 Malang**, majoring in **Rekayasa Perangkat Lunak (RPL/PPLG)**
 -  Building web projects, tinkering with hardware, and exploring cyber security on the side
--  Currently building a **hand-gesture Minecraft controller** in Python (OpenCV, MediaPipe, pynput)
--  Designing **BY Kantin** — a digital pre-order & queue system for school canteens
+-  Students who have a side job in the business/entrepreneurship of buying and selling second-hand laptops
+-  Playing in IT has been 10 years since my childhood
 -  Also into **custom ROM / Android modding** in my free time
 -  Open to collaborating on web, tooling, and computer-vision projects
 
 <br>
 
-## Skills — Coding
+## Skills Coding
 
 <div align="center">
 
