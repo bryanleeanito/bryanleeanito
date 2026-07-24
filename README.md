@@ -11,7 +11,7 @@
 <br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+account+enjoy+:);Software+Engineer+|+Hardware+|+Modder;Custom+ROM+|+Business+|+Intrepreneur+|+Cyber+Security;Student+of+SMK+PGRI+3+Malang+%E2%80%94+RPL%2FPPLG;Still+Learning!+:);Enjoy:)&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=800&color=3B82F6&vCenter=true&size=19" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+account+enjoy+:);Software+Engineer+|+Hardware+|+Modder;Custom+ROM+|+Business+|+Intrepreneur+|+Cyber+Security;Student+of+SMK+PGRI+3+Malang+|+RPL%2FPPLG;Still+Learning!+:);Enjoy:)&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=800&color=3B82F6&vCenter=true&size=19" />
 </a>
 
 </div>
@@ -20,7 +20,7 @@
 
 ## About Me
 
-Berawal dari iseng belajar laptop & IT dari ngegame sejak umur 6 tahun, 11 tahun perjalanan waktu berkembang jadi tertarik belajar IT dasar — dari coding, software, hardware, sistem operasi, sampai bahasa pemrograman, dan terus berlanjut sampai sekarang.
+Starting from just having fun learning about laptops & IT from playing games since the age of 6, over 11 years of time, I have developed an interest in learning basic IT from coding, software, hardware, operating systems, to programming languages, and this continues to the present day.
 
 -  Vocational student at **SMK PGRI 3 Malang**, majoring in **Rekayasa Perangkat Lunak (RPL/PPLG)**
 -  Building web projects, tinkering with hardware, and exploring cyber security on the side
