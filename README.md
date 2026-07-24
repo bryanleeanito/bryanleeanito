@@ -87,7 +87,7 @@ Starting from just having fun learning about laptops & IT from playing games sin
 <tr>
 <td width="50%" valign="top">
 
-### 🖐️ Minecraft Gesture Controller
+### Minecraft Gesture Controller
 Control Minecraft using only a webcam and both hands — left hand drives movement, right hand handles camera & interactions, like a virtual gamepad made of gestures.
 
 **Stack:** Python · OpenCV · MediaPipe · pynput
@@ -97,7 +97,7 @@ Control Minecraft using only a webcam and both hands — left hand drives moveme
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Bryan Lee IT TECH — Portfolio
+### Bryan Lee IT TECH — Portfolio
 Personal portfolio site showcasing skills, tools, and hardware setup — built with a dark navy/blue tech aesthetic.
 
 **Stack:** HTML · CSS · JS
@@ -108,7 +108,7 @@ Personal portfolio site showcasing skills, tools, and hardware setup — built w
 </tr>
 </table>
 
-> 💡 **What's Next:** more projects are on the way as skills keep expanding — from web development into deeper systems, security, and automation work.
+>  **What's Next:** more projects are on the way as skills keep expanding from web development into deeper systems, security, and automation work.
 
 <br>
 
@@ -141,9 +141,9 @@ Personal portfolio site showcasing skills, tools, and hardware setup — built w
 
 <div align="center">
 
-### Let's build something 🚀
+### Let's build something :)
 
-<sub>Started from curiosity, now building real things — one project at a time.</sub>
+<sub>Started from curiosity, now building real things one project at a time.</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0D1B2E&height=100&section=footer" />
 
